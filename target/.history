@@ -1,0 +1,20 @@
+compile
+run
+git clone https://github.com/playframework/play-java-starter-example.git
+compile
+run
+git clone https://github.com/playframework/play-java-starter-example.git
+cd 223277
+git clone https://github.com/playframework/play-java-starter-example.git
+exit
+compile
+run
+stop
+exit
+git push heroku master
+git init
+compile
+run
+git init
+heroku create
+heroku login
